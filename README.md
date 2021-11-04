@@ -21,12 +21,11 @@
 - Winston logger
 - Morgan
 
-## Cors
+## Security
 
 - cors
-
-## Content-Security-Policy header
-
+- xss
+- express-rate-limit
 - helmet
 
 ## Validation
